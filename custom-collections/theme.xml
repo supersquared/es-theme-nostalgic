@@ -13,6 +13,12 @@
 	
 	<view name="video">
 
+		<image name="md_marquee">
+            <pos>0.85 0.85</pos>
+            <maxSize>0.25 0.15</maxSize>
+			<zIndex>40</zIndex>
+        </image>
+
 		<video name="md_video">
 			<pos>0.715 0.347</pos>
 			<maxSize>0.480 0.480</maxSize>
