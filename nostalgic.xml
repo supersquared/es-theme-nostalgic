@@ -190,17 +190,23 @@ version         1.0
 			<origin>0.5 0.5</origin>
 		</image>
 
+		<image name="md_marquee">
+            <pos>0.6 0.2</pos>
+            <maxSize>0.3 0.20</maxSize>
+			<zIndex>40</zIndex>
+        </image>
+
 		<textlist name="gamelist">
 			<pos>0.010 0.16</pos>
 			<size>0.400 0.55</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.027</horizontalMargin>
 			<fontPath>./art/OpenSans-Bold.ttf</fontPath>
-			<fontSize>0.02</fontSize>
-			<selectorColor>c0c0c0</selectorColor>
+			<fontSize>0.03</fontSize>
+			<selectorColor>00000033</selectorColor>
 			<selectedColor>ffffff</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>871F78</secondaryColor>
+			<primaryColor>ffffffaa</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
 		</textlist>
 
 	</view>	
