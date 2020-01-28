@@ -24,7 +24,7 @@ version         1.0
 		</image>
 
 		<image name="logo">
-			<path>./${system.theme}/logo.png</path>
+			<path>./${system.theme}/logo.svg</path>
 		</image>
 		
 		<carousel name="systemcarousel">
@@ -71,7 +71,7 @@ version         1.0
     <view name="basic">
 	
 		<image name="logo">
-			<path>./${system.theme}/logo.png</path>
+			<path>./${system.theme}/logo.svg</path>
 			<pos>0.5 0.86</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.315 0.125</maxSize>
@@ -120,7 +120,7 @@ version         1.0
 		</image>
 
 		<image name="logo" extra="true">
-			<path>./${system.theme}/logo.png</path>
+			<path>./${system.theme}/logo.svg</path>
 			<pos>0.22 0.10</pos>
 			<maxSize>0.320 0.120</maxSize>
 			<origin>0.5 0.5</origin>
