@@ -2,15 +2,6 @@
     <formatVersion>3</formatVersion>
     <include>./../nostalgic.xml</include>
 
-	<view name="basic, detailed, video">
-
-		<textlist name="gamelist">
-			<selectorColor>8fd400</selectorColor>
-			<selectedColor>000000</selectedColor>
-		</textlist>
-		
-	</view>
-
 	<view name="detailed">	
 		<image name="md_image">
 			<pos>0.703 0.427</pos>

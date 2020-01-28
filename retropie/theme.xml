@@ -4,11 +4,6 @@
 
 	<view name="basic, detailed, video">
 
-		<textlist name="gamelist">
-			<selectorColor>8bc147</selectorColor>
-			<selectedColor>ffffff</selectedColor>
-		</textlist>
-
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>ffffff</color>
 			<pos>2 2</pos>
