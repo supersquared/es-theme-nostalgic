@@ -71,6 +71,7 @@ The following system folders are currently supported...
 * Odyssey2
 * PCFX
 * PC (MS-Dos)
+* PORTS
 * Sony PSP
 * PSP Minis
 * Sony PlayStation (PSX)
