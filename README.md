@@ -25,6 +25,7 @@ The following system folders are currently supported...
 * Favorites
 * Last Played
 * Colecovision
+* Commodore 64
 * Custom Collections
 * Daphne
 * Sega Dreamcast
@@ -39,6 +40,7 @@ The following system folders are currently supported...
 * Game Boy Advance Hacks
 * Game Boy Color
 * Game Boy Color Hacks
+* Game Cube
 * Intellivision
 * AdvMAME
 * MAME Libretro
@@ -78,6 +80,7 @@ The following system folders are currently supported...
 * Vectrex
 * Videopac (Odyssey2)
 * Virtual Boy
+* Wii
 * Wonderswan
 * Wonderswan Color
 * ZX Spectrum
