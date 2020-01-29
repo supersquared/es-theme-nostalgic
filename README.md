@@ -117,6 +117,7 @@ IMPORTANT: I recommend keeping EmulationStation's VRAM setting at 80. This theme
 
 ## Acknowledgments
 
+* JungleJim42 for C64, GC and C64 theming
 * Viking for his amazing Launchbox creations
 * RetroNi for his logo sets
 * mattrixk for his ES-Toolkit app
