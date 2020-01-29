@@ -44,73 +44,72 @@ version         1.0
 	</view>
 	
 	<view name="basic, detailed, video">
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_players, md_lbl_playcount, md_lbl_favorite">
+		<text name="md_lbl_rating, md_lbl_releasedate, md_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_players, md_lbl_playcount, md_lbl_favorite">
 			<color>c0c0c0</color>
 			<fontPath>./art/NESCyrillic.ttf</fontPath>
-			<fontSize>0.025</fontSize>
+			<fontSize>0.035</fontSize>
 		</text>
 		
-		<text name="md_developer, md_publisher, md_genre, md_playcount, md_lastplayed, md_description, md_players, md_releasedate, md_favorite">
+		<text name="md_developer, md_publisher, md_genre, md_playcount, md_lastplayed, md_description, md_players, md_favorite">
 			<color>FFFFFF</color>
 			<fontPath>./art/OpenSans-CondBold.ttf</fontPath>
-			<fontSize>0.0195</fontSize>
+			<fontSize>0.03</fontSize>
 		</text>
 		<text name="md_lbl_releasedate">
 			<pos>0.010 0.720</pos>
 		</text>
 		<datetime name="md_releasedate">
-			<pos>0.015 0.750</pos>
-			<size>0.075 0.025</size>
+			<pos>0.102 0.711</pos>
 		</datetime>
 		<text name="md_lbl_rating">
-			<pos>0.25 0.724</pos>
+			<pos>0.25 0.720</pos>
 		</text>
 		<rating name="md_rating">
-			<pos>0.255 0.748</pos>
+			<pos>0.255 0.752</pos>
 			<size>0.008 0.029</size>
 			<filledPath>./art/star_filled.svg</filledPath>
 			<unfilledPath>./art/star_hollow.svg</unfilledPath>
 		</rating>
 		<text name="md_lbl_players">
-			<pos>0.010 0.780</pos>
+			<pos>0.25 0.780</pos>
 		</text>
 		<text name="md_players">
-			<pos>0.015 0.805</pos>
+			<pos>0.255 0.809</pos>
 			<size>0.075 0.025</size>
 		</text>
 		<text name="md_lbl_genre">
-			<pos>0.25 0.780</pos>
+			<pos>0.010 0.885</pos>
 		</text>
 		<text name="md_genre">
-			<pos>0.255 0.805</pos>
+			<pos>0.015 0.917</pos>
 			<size>0.220 0.025</size>
 		</text>
 		<text name="md_lbl_developer">
-			<pos>0.010 0.830</pos>
+			<pos>0.010 0.755</pos>
 		</text>
 		<text name="md_developer">
-			<pos>0.015 0.855</pos>
+			<pos>0.015 0.790</pos>
 			<size>0.220 0.025</size>
 		</text>
 		<text name="md_lbl_publisher">
-			<pos>0.25 0.830</pos>
+			<pos>0.010 0.820</pos>
 		</text>
 		<text name="md_publisher">
-			<pos>0.255 0.855</pos>
+			<pos>0.015 0.855</pos>
 			<size>0.220 0.025</size>
 		</text>
 		<text name="md_lbl_lastplayed">
-			<pos>0.010 0.880</pos>
+			<pos>0.25 0.835</pos>
 		</text>
 		<datetime name="md_lastplayed">
-			<pos>0.015 0.905</pos>
+			<pos>0.255 0.864</pos>
 			<size>0.2 0.025</size>
 		</datetime>
 		<text name="md_lbl_playcount">
-			<pos>0.25 0.880</pos>
+			<pos>0.25 0.893</pos>
 		</text>
 		<text name="md_playcount">
-			<pos>0.255 0.905</pos>
+			<pos>0.255 0.925</pos>
 			<size>0.0375 0.025</size>
 		</text>
 		<text name="md_description">
