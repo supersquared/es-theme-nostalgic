@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2232.5 255">
+  <title>logo</title>
+  <g style="isolation: isolate">
+    <g>
+      <g opacity="0.3" style="mix-blend-mode: multiply">
+        <polygon points="16 246 16 16 71 16 71 191 193.5 191 193.5 246 16 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M322.75,552.06v-105h-67.5v105h-55v-195h35v-35h107.5v35h35v195Zm0-160v-15h-67.5v15Z" transform="translate(18.75 -306.06)" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="422 246 422 191 544.5 191 544.5 141 457 141 457 106 422 106 422 51 457 51 457 16 599.5 16 599.5 71 477 71 477 86 564.5 86 564.5 121 599.5 121 599.5 211 564.5 211 564.5 246 422 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="695 246 695 71 625 71 625 16 820 16 820 71 750 71 750 246 695 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M942.25,552.06v-230h160v35h35v55h-35v35h-105v105Zm140-160v-15h-85v15Z" transform="translate(18.75 -306.06)" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1181.5 246 1181.5 16 1236.5 16 1236.5 191 1359 191 1359 246 1181.5 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M1488.25,552.06v-105h-67.5v105h-55v-195h35v-35h107.5v35h35v195Zm0-160v-15h-67.5v15Z" transform="translate(18.75 -306.06)" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1657.5 246 1657.5 106 1622.5 106 1622.5 71 1587.5 71 1587.5 16 1642.5 16 1642.5 51 1677.5 51 1677.5 86 1692.5 86 1692.5 51 1727.5 51 1727.5 16 1782.5 16 1782.5 71 1747.5 71 1747.5 106 1712.5 106 1712.5 246 1657.5 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1808 246 1808 16 2003 16 2003 71 1863 71 1863 86 1915.5 86 1915.5 141 1863 141 1863 191 2003 191 2003 246 1808 246" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M2009.75,552.06v-230h160v35h35v160h-35v35Zm140-55v-120h-85v120Z" transform="translate(18.75 -306.06)" stroke="#000" stroke-miterlimit="10" stroke-width="18"/>
+      </g>
+      <g>
+        <polygon points="9 239 9 9 64 9 64 184 186.5 184 186.5 239 9 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M315.75,545.06v-105h-67.5v105h-55v-195h35v-35h107.5v35h35v195Zm0-160v-15h-67.5v15Z" transform="translate(18.75 -306.06)" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="415 239 415 184 537.5 184 537.5 134 450 134 450 99 415 99 415 44 450 44 450 9 592.5 9 592.5 64 470 64 470 79 557.5 79 557.5 114 592.5 114 592.5 204 557.5 204 557.5 239 415 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="688 239 688 64 618 64 618 9 813 9 813 64 743 64 743 239 688 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M935.25,545.06v-230h160v35h35v55h-35v35h-105v105Zm140-160v-15h-85v15Z" transform="translate(18.75 -306.06)" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1174.5 239 1174.5 9 1229.5 9 1229.5 184 1352 184 1352 239 1174.5 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M1481.25,545.06v-105h-67.5v105h-55v-195h35v-35h107.5v35h35v195Zm0-160v-15h-67.5v15Z" transform="translate(18.75 -306.06)" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1650.5 239 1650.5 99 1615.5 99 1615.5 64 1580.5 64 1580.5 9 1635.5 9 1635.5 44 1670.5 44 1670.5 79 1685.5 79 1685.5 44 1720.5 44 1720.5 9 1775.5 9 1775.5 64 1740.5 64 1740.5 99 1705.5 99 1705.5 239 1650.5 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <polygon points="1801 239 1801 9 1996 9 1996 64 1856 64 1856 79 1908.5 79 1908.5 134 1856 134 1856 184 1996 184 1996 239 1801 239" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+        <path d="M2002.75,545.06v-230h160v35h35v160h-35v35Zm140-55v-120h-85v120Z" transform="translate(18.75 -306.06)" fill="#fff" stroke="#ce2929" stroke-miterlimit="10" stroke-width="18"/>
+      </g>
+    </g>
+  </g>
+</svg>
