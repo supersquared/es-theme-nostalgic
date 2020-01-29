@@ -1,3 +1,6 @@
+# Notalgic-Neo
+Just wanted to push this themes a little further.
+
 # es-theme-nostalgic
 
 "Nostalgic" theme for Retropie EmulationStation by SuperMagicom.
