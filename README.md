@@ -12,17 +12,22 @@ All credit for the visual aesthetic goes to Viking. My contribution is the code 
 
 The following system folders are currently supported...
 
+* 3DO
 * Amiga
+* Amiga CD32
 * Amstrad CPC
 * Apple 2
 * Arcade
+* Atari 800
 * Atari 2600
 * Atari 5200
 * Atari 7800
+* Atari Jaguar
 * Atari Lynx
 * Atari ST
 * All Games
 * Favorites
+* Kodi
 * Last Played
 * Colecovision
 * Commodore 64
@@ -43,6 +48,7 @@ The following system folders are currently supported...
 * Game Cube
 * Intellivision
 * AdvMAME
+* Macintosh
 * MAME Libretro
 * MAME4All
 * Sega Master System
@@ -62,17 +68,22 @@ The following system folders are currently supported...
 * Nintendo BSX Satellaview
 * NEC PC-Engine
 * NEC PC-Engine CD
+* Odyssey2
+* PCFX
 * PC (MS-Dos)
 * Sony PSP
 * PSP Minis
 * Sony PlayStation (PSX)
+* Sony PlayStation 2 (PS2)
 * ScummVM
 * Sega 32X
 * Sega CD
 * Super Famicom
+* Sega Saturn
 * Sega SG-1000
 * Super Nintendo
 * SNES Hacks
+* Steam
 * Bandai SufamiTurbo
 * SuperGrafx
 * TurboGrafx 16
@@ -83,6 +94,7 @@ The following system folders are currently supported...
 * Wii
 * Wonderswan
 * Wonderswan Color
+* X68000
 * ZX Spectrum
 
 More systems may be added in the future.
