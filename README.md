@@ -72,6 +72,7 @@ The following system folders are currently supported...
 * PCFX
 * PC (MS-Dos)
 * PORTS
+* SAM Coupé
 * Sony PSP
 * PSP Minis
 * Sony PlayStation (PSX)
