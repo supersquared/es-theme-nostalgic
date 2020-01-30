@@ -10,7 +10,7 @@ I have always admired the "Nostalgia" platform videos made by Viking for Launchb
 All credit for the visual aesthetic goes to Viking. My contribution is the code to display the images as an ES theme and align the video snaps for each system individually. It was a lot of work but I am pleased with the results and I hope you will be too!
 
 
-The following system folders are currently supported...
+The following 76 system folders are currently supported...
 
 * 3DO
 * Amiga
