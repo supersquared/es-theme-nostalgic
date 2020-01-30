@@ -87,6 +87,7 @@ The following system folders are currently supported...
 * Steam
 * Bandai SufamiTurbo
 * SuperGrafx
+* ResidualVM
 * TurboGrafx 16
 * TurboGrafx CD
 * Vectrex
