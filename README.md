@@ -91,6 +91,7 @@ The following 76 system folders are currently supported...
 * ResidualVM
 * TurboGrafx 16
 * TurboGrafx CD
+* TRS-80
 * Vectrex
 * Videopac (Odyssey2)
 * Virtual Boy
